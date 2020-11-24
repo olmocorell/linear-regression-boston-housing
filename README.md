@@ -1,4 +1,4 @@
-![portada]()
+![portada](https://github.com/agalvezcorell/linear-regression-boston-housing/blob/main/images/cover.jpg)
 
 # Mini project to practice linear regression
 ## ¿Qué tienes que hacer?
